@@ -1,7 +1,7 @@
 VITacademics - Android App
 ============
 
-As the old repository was getting too messed, here a new clean repository containing the live verision on the app.
+As the old repository was getting too messed up, here's a new clean repository containing the live verision on the app.
 
 
 Current Version: 1.2 
